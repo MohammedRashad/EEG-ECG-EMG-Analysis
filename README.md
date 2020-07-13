@@ -7,3 +7,4 @@
 - EEG Signals 
 - ECG Signals 
 - EMG Signals
+- Using python and time series classification
