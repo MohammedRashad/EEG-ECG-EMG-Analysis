@@ -1,5 +1,10 @@
 # eeg-ecg-pattern-recognition
 
+- Visualization of signal in all channels
+- Statistical reports (mean, std, variance, correlation..etc)
+- Power spectrum and data filtering with high pass filter
+- Detection of most notable frequencies in the signal
+- Model in SVM and Random Forest to classify the signal
 
 # Model and Signal Classification 
 
