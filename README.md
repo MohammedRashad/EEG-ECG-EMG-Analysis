@@ -1,4 +1,6 @@
-# eeg-ecg-pattern-recognition
+# EEG-ECG-EMG-Analysis
+
+**All Data are extracted from OpenBCI Kit** 
 
 - Visualization of signal in all channels
 - Statistical reports (mean, std, variance, correlation..etc)
