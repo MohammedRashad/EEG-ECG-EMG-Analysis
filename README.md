@@ -7,6 +7,7 @@
 - Power spectrum and data filtering with high pass filter
 - Detection of most notable frequencies in the signal
 - Model in SVM and Random Forest to classify the signal
+- Time Series Analysis (TODO)
 
 # Model and Signal Classification 
 
