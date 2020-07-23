@@ -8,6 +8,7 @@
 - Detection of most notable frequencies in the signal
 - Model in SVM and Random Forest to classify the signal
 - Time Series Analysis (TODO)
+- Topological map  
 
 # Model and Signal Classification 
 
