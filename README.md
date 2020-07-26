@@ -9,6 +9,8 @@
 - Model in SVM and Random Forest to classify the signal
 - Time Series Analysis (TODO)
 - Topological map  
+- Correlation Between EEG and EMG
+- Regression EEG vs ECG and EMG
 
 # Model and Signal Classification 
 
