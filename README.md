@@ -10,7 +10,7 @@
 - Time Series Analysis (TODO)
 - Topological map  
 - Correlation Between EEG and EMG
-- Regression EEG vs ECG and EMG
+- Multiple Linear Regression EEG vs ECG and EMG
 
 # Model and Signal Classification 
 
