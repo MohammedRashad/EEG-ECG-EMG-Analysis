@@ -11,6 +11,7 @@
 - Topological map  
 - Correlation Between EEG and EMG
 - Multiple Linear Regression EEG vs ECG and EMG
+- Added Analysis for other samples 
 
 # Model and Signal Classification 
 
